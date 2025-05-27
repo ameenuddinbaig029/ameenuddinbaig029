@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Ameenuddin Baig**, a **Cloud AI Engineer** and **Data Scientist** passionate about building robust, intelligent systems that scale.
+I'm **Ameenuddin Baig**, a **Junior Data Scientist** and **Cloud AI Engineer** passionate about building robust, intelligent systems that scale.
 
 > 💬 _“In God we trust. All others must bring data.”_  
 > 🤖 _“I build models because debugging people is harder.”_
