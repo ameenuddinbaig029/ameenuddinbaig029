@@ -1,7 +1,8 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Ameenuddin%20Baig&fontSize=45&fontAlignY=40&desc=%20%7C%20Junior Data%20Scientist%20%7C%2Cloud%20AI%20Engineer0MLOps%20Crafter&descAlignY=60&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Ameenuddin%20Baig&fontSize=45&fontAlignY=40&desc=Junior%20Data%20Scientist%20%7C%20Cloud%20AI%20Engineer%20%7C%20MLOps%20Crafter&descAlignY=60&animation=fadeIn&fontColor=ffffff" />
 </p>
+
 
 <p align="center">
   <a href="mailto:ameenuddinbaig029@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
